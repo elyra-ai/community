@@ -122,6 +122,14 @@ the rest of the rebase.
 
 ## The Review Process
 
+
+The review process can help the project achieve a high-quality code base. When performing code reviews,
+various aspects should be considered, and the following
+[code review checklist](https://www.michaelagreiler.com/wp-content/uploads/2019/08/Code_Review_Checklist_Greiler.pdf)
+give some examples of such items.
+
+What to expect from the review process?
+
 * Other reviewers, including committers, may comment on the changes and suggest modifications. Changes can be added
   by simply pushing more commits to the same branch.
 * Lively, polite, rapid technical debate is encouraged from everyone in the community. The outcome may be a
