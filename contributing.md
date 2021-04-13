@@ -101,6 +101,10 @@ To fix the conflict, you can follow [the standard procedures for resolving merge
 When you're finished, you'll need to call `git rebase --continue` in order for Git to continue processing
 the rest of the rebase.
 
+> **Note:** If there are any merge conflicts with the `yarn.lock` file, there is 
+> no need to manually resolve them. Simply run `yarn install` and yarn will do its
+> best to automatically resolve any conflicts.
+
 ## Creating a Pull Request
 
 1. Fork the Github repository at https://github.com/elyra-ai/xxx if you haven't already
