@@ -45,7 +45,7 @@ The process to propose a doc change is otherwise the same as the process for pro
 
 # Contributing code changes
 
-Please review the preceding section before proposing a code change. This section documents how to do so.
+Please review the following section before proposing a code change. This section documents how to do so.
 
 ***
 **When you contribute code, you affirm that the contribution is your original work and that you license the
@@ -59,7 +59,7 @@ have the legal authority to do so.**
 
 ## Before creating a Pull Request
 
-1.Make sure you have the most up to date code
+1. Make sure you have the most up to date code
 
 If you haven't done so, please set upstream as described in [GitHub Documentation](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
@@ -71,7 +71,7 @@ git checkout master
 git rebase upstream/master
 ```
 
-Now you should rebase your branch with master, to receive the upstream changes
+Now you should rebase your branch with master, to receive the upstream changes:
 
 ```
 git checkout branch
@@ -107,7 +107,7 @@ the rest of the rebase.
 
 ## Creating a Pull Request
 
-1. Fork the Github repository at https://github.com/elyra-ai/xxx if you haven't already
+1. Fork the Github repository at https://github.com/elyra-ai/xxx if you haven't already.
 1. Clone your fork, create a new branch, push commits to the branch.
 1. Consider whether documentation or tests need to be added or updated as part of the change, and add them as needed.
 1. Open a pull request against the master branch of elyra-ai/elyra. (Only in special cases would the PR be opened 
@@ -128,9 +128,9 @@ the rest of the rebase.
 
 
 The review process can help the project achieve a high-quality code base. When performing code reviews,
-various aspects should be considered, and the following
+various aspects should be considered, and this
 [code review checklist](https://www.michaelagreiler.com/wp-content/uploads/2019/08/Code_Review_Checklist_Greiler.pdf)
-give some examples of such items.
+gives some examples of such items.
 
 What to expect from the review process?
 
@@ -147,7 +147,7 @@ What to expect from the review process?
 * Sometimes, other changes will be merged which conflict with your pull request's changes. The PR can't be merged
   until the conflict is resolved. This can be resolved with "git fetch origin" followed by "git merge origin/master" 
   and resolving the conflicts by hand, then pushing the result to your branch.
-* Try to be responsive to the discussion rather than let days pass between replies
+* Try to be responsive to the discussion rather than let days pass between replies.
 
 ## Merging Pull Requests
 
