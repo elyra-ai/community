@@ -63,19 +63,19 @@ have the legal authority to do so.**
 
 If you haven't done so, please set upstream as described in [GitHub Documentation](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
-Make sure you do not have any uncommitted changes and rebase master with latest changes from upstream:
+Make sure you do not have any uncommitted changes and rebase main with latest changes from upstream:
 
 ```
 git fetch upstream
-git checkout master
-git rebase upstream/master
+git checkout main
+git rebase upstream/main
 ```
 
-Now you should rebase your branch with master, to receive the upstream changes:
+Now you should rebase your branch with main, to receive the upstream changes:
 
 ```
 git checkout branch
-git rebase master
+git rebase main
 ```
 
 In both cases, you can have conflicts:
@@ -110,7 +110,7 @@ the rest of the rebase.
 1. Fork the Github repository at https://github.com/elyra-ai/xxx if you haven't already.
 1. Clone your fork, create a new branch, push commits to the branch.
 1. Consider whether documentation or tests need to be added or updated as part of the change, and add them as needed.
-1. Open a pull request against the master branch of elyra-ai/elyra. (Only in special cases would the PR be opened 
+1. Open a pull request against the main branch of elyra-ai/elyra. (Only in special cases would the PR be opened 
    against other branches.)
   1. The PR title should describe the proposed change in the PR itself.
   1. If the pull request is still a work in progress, and so is not ready to be merged, but needs to be pushed 
@@ -145,11 +145,11 @@ What to expect from the review process?
   you will be expected to help with bugs or follow-up issues on the patch. Consistent, judicious use of LGTMs
   is a great way to gain credibility as a reviewer with the broader community.
 * Sometimes, other changes will be merged which conflict with your pull request's changes. The PR can't be merged
-  until the conflict is resolved. This can be resolved with "git fetch origin" followed by "git merge origin/master" 
+  until the conflict is resolved. This can be resolved with "git fetch origin" followed by "git merge origin/main" 
   and resolving the conflicts by hand, then pushing the result to your branch.
 * Try to be responsive to the discussion rather than let days pass between replies.
 
 ## Merging Pull Requests
 
-To avoid a convoluted master branch history, with lots of "merge xxx" on the commit history, we are not using the
+To avoid a convoluted main branch history, with lots of "merge xxx" on the commit history, we are not using the
 GitHub `merge pull request` UI option and recommending either `squash and merge` or `rebase and merge` options. 
