@@ -112,8 +112,8 @@ the rest of the rebase.
 1. Clone your fork, create a new branch, push commits to the branch.
      * Below is a vague outline of the commands to be followed when doing these steps:
           * Cloning your fork:
-               * git clone https://github.com/<your-github-id>/<desired-elyra-repository>.git
-               * Set `upstream` as described in the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork)
+               * git clone git@github.com:elyra-ai/<desired-elyra-repository>.git
+               * Set `upstream` as described in the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork), but using SSH instead of HTTPS
           * Creating a new branch:
                * git checkout -b <branch-name>
           * Committing and pushing a file:
