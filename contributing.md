@@ -112,18 +112,18 @@ the rest of the rebase.
 1. Clone your fork, create a new branch, push commits to the branch.
      * Below is a vague outline of the commands to be followed when doing these steps:
           * Cloning your fork:
-               * git clone git@github.com:elyra-ai/<desired-elyra-repository>.git
+               * `git clone git@github.com:elyra-ai/<desired-elyra-repository>.git`
                * Set `upstream` as described in the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork), but using SSH instead of HTTPS
           * Creating a new branch:
-               * git checkout -b <branch-name>
+               * `git checkout -b <branch-name>`
           * Committing and pushing a file:
-               * git add <file-name>
-               * git commit
+               * `git add <file-name>`
+               * `git commit`
                     * Opens a text file that is a summary of the current commit operation
                     * Add a commit message that describes the changes you made
                     * Ctrl + X and enter to save
-               * git push
-                    * Pushes the commit from your local repo to the remote repo
+               * `git push`
+                    * Pushes the commit from your local repo to the remote repo
 1. Consider whether documentation or tests need to be added or updated as part of the change, and add them as needed.
 1. Open a pull request against the main branch of elyra-ai/elyra. (Only in special cases would the PR be opened 
    against other branches.)
