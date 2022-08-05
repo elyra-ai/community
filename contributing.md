@@ -108,7 +108,7 @@ the rest of the rebase.
 ## Creating a Pull Request
 
 1. Set up SSH if you haven't already, or generate a new SSH key if necessary as described in the [Github Documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-1. Fork the Github repository at https://github.com/elyra-ai/&lt;desired-elyra-repository&gt; if you haven't already.
+1. Fork the Github repository at `https://github.com/elyra-ai/<desired-elyra-repository>` if you haven't already.
 1. Clone your fork, create a new branch, and push commits to the branch as summarized below:
      * Cloning your fork:
           * `git clone git@github.com:elyra-ai/<desired-elyra-repository>.git`
