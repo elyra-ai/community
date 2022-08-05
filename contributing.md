@@ -108,7 +108,7 @@ the rest of the rebase.
 ## Creating a Pull Request
 
 1. Set up SSH if you haven't already, or generate a new SSH key if necessary as described in the [Github Documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-1. Fork the Github repository at https://github.com/elyra-ai/&ltdesired-elyra-repository&gt if you haven't already.
+1. Fork the Github repository at https://github.com/elyra-ai/&lt;desired-elyra-repository&gt; if you haven't already.
 1. Clone your fork, create a new branch, and push commits to the branch as summarized below:
      * Cloning your fork:
           * `git clone git@github.com:elyra-ai/<desired-elyra-repository>.git`
@@ -117,11 +117,18 @@ the rest of the rebase.
           * `git checkout -b <branch-name>`
      * Committing and pushing a file:
           * Make changes to the necessary files, then save them with [`git add`](https://git-scm.com/docs/git-add)
-          * Describe the changes you made using [`git commit`](https://git-scm.com/docs/git-commit]
-               * Follow [the 7 rules for a great commit message](http://chris.beams.io/posts/git-commit/)                                                                             * Separate subject from body with a blank line                                   * Limit the subject line to 50 characters                                        * Capitalize the subject line                                                    * Do not end the subject line with a period                                      * Use the imperative mood in the subject line                                    * Wrap the body at 72 characters                                                 * Use the body to explain what and why vs. how 
+          * Describe the changes you made using [`git commit`](https://git-scm.com/docs/git-commit)
+               * Follow the [7 rules for a great commit message](http://chris.beams.io/posts/git-commit/)
+                    * Separate subject from body with a blank line
+                    * Limit the subject line to 50 characters
+                    * Capitalize the subject line
+                    * Do not end the subject line with a period
+                    * Use the imperative mood in the subject line
+                    * Wrap the body at 72 characters
+                    * Use the body to explain what and why vs. how 
           * Implement your changes with [`git push`](https://git-scm.com/docs/git-push)
 1. Consider whether documentation or tests need to be added or updated as part of the change, and add them as needed.
-1. Open a pull request against the main branch of elyra-ai/&ltdesired-elyra-repository&gt. (Only in special cases would the PR be opened 
+1. Open a pull request against the main branch of elyra-ai/&lt;desired-elyra-repository&gt;. (Only in special cases would the PR be opened 
    against other branches.)
   1. The PR title should describe the proposed change in the PR itself.
   1. If the pull request is still a work in progress, and so is not ready to be merged, but needs to be pushed 
