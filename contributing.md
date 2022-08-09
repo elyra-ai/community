@@ -126,7 +126,7 @@ the rest of the rebase.
                     * Use the imperative mood in the subject line
                     * Wrap the body at 72 characters
                     * Use the body to explain what and why vs. how 
-          * Implement your changes with [`git push`](https://git-scm.com/docs/git-push)
+          * Submit your changes with [`git push`](https://git-scm.com/docs/git-push)
 1. Consider whether documentation or tests need to be added or updated as part of the change, and add them as needed.
 1. Open a pull request against the main branch of elyra-ai/&lt;desired-elyra-repository&gt;. (Only in special cases would the PR be opened 
    against other branches.)
