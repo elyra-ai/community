@@ -1,21 +1,3 @@
-<!--
-{% comment %}
-Copyright 2018-2020 Elyra Authors
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-{% endcomment %}
--->
-
 ## Elyra Community Code of Conduct 1.0
 
 
@@ -86,3 +68,8 @@ All community leaders are obligated to respect the privacy and security of the r
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
 version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+
+
+In addition, all participants agree to abide by the Code of Conduct available at https://lfprojects.org/policies/code-of-conduct/. 
+Please contact conduct@lfaidata.foundation to report any violations or concerns.
