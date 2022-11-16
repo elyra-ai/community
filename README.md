@@ -16,12 +16,35 @@ limitations under the License.
 {% endcomment %}
 -->
 
+<img src="https://raw.github.com/elyra-ai/elyra/blob/main/packages/ui-components/style/icons/codait-piebrainlogo-jupyter-color.svg" alt="drawing" width="200"/>
+
 # Elyra Community
 
 Welcome to the Elyra community!
 
 This is the starting point for joining and contributing to the Elyra community - improving docs,
 improving code, giving talks etc.
+
+
+### Daily Dev Meetings
+Join us for our daily scrum (except Thursdays) to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional.
+
+**When**: Every weekday except Thursdays at [8:30AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
+
+**Where**: [Webex](https://ibm.webex.com/meet/akchin)
+
+**What**: [Current Milestone](https://github.com/elyra-ai/elyra/milestones)
+
+
+### Weekly Dev Community Meeting 
+Join us weekly to discuss Elyra development topics.  Everyone is welcome and participation is optional.
+
+**When**: Thursdays at [9AM Pacific](https://www.thetimezoneconverter.com/?t=9%3A00%20am&tz=San%20Francisco&)
+
+**Where**: [Webex](https://ibm.webex.com/meet/akchin)
+
+**What**: [Meeting Notes](https://hackmd.io/SgvSqrWWR2248mCw2BZ5gg?both)
+
 
 ### Contributing
 
@@ -34,3 +57,4 @@ Participation in the Elyra community is governed by the [Elyra Code of Conduct](
 ### Thank you!
 
 Elyra thrives on community participation, and we appreciate your contributions to our code and our documentation!
+
