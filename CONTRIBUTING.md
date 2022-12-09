@@ -30,6 +30,7 @@ The following items will be discussed in this document :
 
 * [Contributing Documentation Changes](#Contributing+Documentation+Changes)
 * [Contributing code changes](#Contributing+code+changes)
+  * [Coding style guide](#Coding+style+guide)
   * [Before creating a Pull Request](#Before+creating+a+Pull+Request)
   * [Creating a Pull Request](#Creating+a+Pull+Request)
   * [The Review Process](#The+Review+Process)
@@ -55,6 +56,11 @@ work to the project under the project's open source license.**
 or other means you agree to license the material under the project's open source license and warrant that you
 have the legal authority to do so.**
 ***
+
+## Coding style guide
+
+Elyra has auto-linting in place in its CI process. We use flake8 for all python (PEP-8 with google style imports) and 
+a combination of eslint (rules can be found in repo respective .eslintrc.json file) and prettier for our Javascript/Typescript.
 
 
 ## Before creating a Pull Request
