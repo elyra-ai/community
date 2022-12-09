@@ -28,13 +28,13 @@ becoming an effective contributor.
 
 The following items will be discussed in this document :
 
-* [Contributing Documentation Changes](#Contributing+Documentation+Changes)
-* [Contributing code changes](#Contributing+code+changes)
-  * [Coding style guide](#Coding+style+guide)
-  * [Before creating a Pull Request](#Before+creating+a+Pull+Request)
-  * [Creating a Pull Request](#Creating+a+Pull+Request)
-  * [The Review Process](#The+Review+Process)
-  * [Merging Pull Requests](#Merging+Pull+Requests)
+* [Contributing Documentation Changes](#contributing-documentation-changes)
+* [Contributing code changes](#contributing-code-changes)
+  * [Coding style guide](#coding-style-guide)
+  * [Before creating a Pull Request](#before-creating-a-pull-request)
+  * [Creating a Pull Request](#creating-a-pull-request)
+  * [The Review Process](#the-review-process)
+  * [Merging Pull Requests](#merging-pull-requests)
 
 
 # Contributing Documentation Changes
@@ -59,8 +59,8 @@ have the legal authority to do so.**
 
 ## Coding style guide
 
-Elyra has auto-linting in place in its CI process. We use flake8 for all python (PEP-8 with google style imports) and 
-a combination of eslint (rules can be found in repo respective .eslintrc.json file) and prettier for our Javascript/Typescript.
+Elyra has auto-linting in place in its CI process. We use `flake8` for all python (PEP-8 with google style imports) and 
+a combination of `eslint` (rules can be found in repo respective `.eslintrc.json` file) and `prettier` for our Javascript/Typescript.
 
 
 ## Before creating a Pull Request
