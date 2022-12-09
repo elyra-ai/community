@@ -113,6 +113,10 @@ the rest of the rebase.
 
 ## Creating a Pull Request
 
+> **Note:** All commits in your pull request must be digitally signed. Elyra uses 
+> a DCO bot as part of its CI process to ensure this requirement is satisfied. See 
+> https://github.com/apps/dco
+
 1. Set up SSH if you haven't already, or generate a new SSH key if necessary as described in the [Github Documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 1. Fork the Github repository at `https://github.com/elyra-ai/<desired-elyra-repository>` if you haven't already.
 1. Clone your fork, create a new branch, and push commits to the branch as summarized below:
@@ -121,9 +125,9 @@ the rest of the rebase.
           * Set `upstream` as described in the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork), preferring the SSH method over HTTPS
      * Creating a new branch:
           * `git checkout -b <branch-name>`
-     * Committing and pushing a file:
+     * Sign, commit and pushing a file:
           * Make changes to the necessary files, then save them with [`git add`](https://git-scm.com/docs/git-add)
-          * Describe the changes you made using [`git commit`](https://git-scm.com/docs/git-commit)
+          * Digitally sign and describe the changes you made using [`git commit -s`](https://git-scm.com/docs/git-commit)
                * Follow the [7 rules for a great commit message](http://chris.beams.io/posts/git-commit/)
                     * Separate subject from body with a blank line
                     * Limit the subject line to 50 characters
