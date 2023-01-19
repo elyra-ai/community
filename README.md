@@ -29,7 +29,7 @@ improving code, giving talks etc.
 ### Daily Dev Meetings
 Join us for our daily scrum (except Thursdays) to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional.
 
-**When**: Every weekday except Thursdays at [8:30AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
+**When**: Every Tuesday at [9:00AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
 
 **Where**: [Webex](https://ibm.webex.com/meet/akchin)
 
