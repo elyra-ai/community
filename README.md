@@ -16,7 +16,8 @@ limitations under the License.
 {% endcomment %}
 -->
 
-<img src="https://raw.github.com/elyra-ai/elyra/blob/main/packages/ui-components/style/icons/codait-piebrainlogo-jupyter-color.svg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/elyra-ai/elyra/main/packages/ui-components/style/icons/codait-piebrainlogo-jupyter-color.svg"
+ alt="drawing" width="200"/>
 
 # Elyra Community
 
@@ -26,8 +27,8 @@ This is the starting point for joining and contributing to the Elyra community -
 improving code, giving talks etc.
 
 
-### Daily Dev Meetings
-Join us for our daily scrum (except Thursdays) to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional.
+### Dev Meetings
+Join us for our scrum to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional.
 
 **When**: Every Tuesday at [9:00AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
 
@@ -48,11 +49,11 @@ Join us weekly to discuss Elyra development topics.  Everyone is welcome and par
 
 ### Contributing
 
-If you are interested in contributing to Elyra then checkout the [Contributor's Guide](contributing.md)
+If you are interested in contributing to Elyra then checkout the [Contributor's Guide](CONTRIBUTING.md)
 
 ### Code of conduct
 
-Participation in the Elyra community is governed by the [Elyra Code of Conduct](code-of-conduct.md).
+Participation in the Elyra community is governed by the [Elyra Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Thank you!
 
