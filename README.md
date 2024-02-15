@@ -28,14 +28,13 @@ improving code, giving talks etc.
 
 
 ### Dev Meetings
-Join us for our scrum to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional.
+Join us for our scrum to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional. Note: Currently the Elyra community call is co-located with the CLAIMED community call.
 
-**When**: Every Tuesday at [9:00AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
+**When**: Every Friday at [8:30AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
 
-**Where**: [Webex](https://ibm.webex.com/meet/akchin)
+**Where**: [Webex](https://ibm.webex.com/meet/romeo.kienzler1)
 
 **What**: [Current Milestone](https://github.com/elyra-ai/elyra/milestones)
-
 
 ### Weekly Dev Community Meeting 
 Join us weekly to discuss Elyra development topics.  Everyone is welcome and participation is optional.
