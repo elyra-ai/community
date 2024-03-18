@@ -27,23 +27,24 @@ This is the starting point for joining and contributing to the Elyra community -
 improving code, giving talks etc.
 
 
-### Dev Meetings
-Join us for our scrum to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional. Note: Currently the Elyra community call is co-located with the CLAIMED community call.
+### Dev Meetings Elyra General
+Join us to discuss development items you're working on or have questions about. Everyone is welcome and participation is optional. Note: Currently the Elyra community call is co-located with the CLAIMED community call.
 
-**When**: Every Friday at [8:30AM Pacific](https://www.thetimezoneconverter.com/?t=8%3A30%20am&tz=San%20Francisco&)
+**When**: Every Friday at [8:30-9:00 AM Pacific](https://dateful.com/convert/san-francisco-california?t=0830)
 
-**Where**: [Webex](https://ibm.webex.com/meet/romeo.kienzler1)
+**Where**: [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/94379806729?password=f2c8ef12-518f-41ee-a64b-c169b9e9a2bb)
 
 **What**: [Current Milestone](https://github.com/elyra-ai/elyra/milestones)
 
-### Weekly Dev Community Meeting 
-Join us weekly to discuss Elyra development topics.  Everyone is welcome and participation is optional.
+### Weekly Dev Community Meeting Elyra Frontend
+Join us weekly to discuss Elyra UI and frontend-related topics, i.e. Jupyterlab 4 support. Everyone is welcome and participation is optional.
 
-**When**: Thursdays at [9AM Pacific](https://www.thetimezoneconverter.com/?t=9%3A00%20am&tz=San%20Francisco&)
+**When**: Fridays at [10 AM 
+Pacific](https://dateful.com/convert/san-francisco-california?t=10)
 
-**Where**: [Webex](https://ibm.webex.com/meet/akchin)
+**Where**: [zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/93159221188?password=90446ae3-3959-4c4d-acfa-20a7957a0d5b)
 
-**What**: [Meeting Notes](https://hackmd.io/SgvSqrWWR2248mCw2BZ5gg?both)
+**What**: [Current Issues](https://github.com/elyra-ai/elyra/issues)
 
 
 ### Contributing
